@@ -8,4 +8,5 @@ members = [
     "apps/*",
     "libs/*",
     "house-price-pred",
+    "demo",
 ]
