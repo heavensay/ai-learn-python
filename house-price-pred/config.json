@@ -1,0 +1,11 @@
+{
+  "model_type": "linear_regression",
+  "version": "1.0.0",
+  "feature_name": "area_sqm",
+  "label_name": "price_wan",
+  "scale_factor": 100.0,
+  "metrics": {
+    "r2": 0.9976,
+    "rmse": 1.4671
+  }
+}

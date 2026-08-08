@@ -1,0 +1,11 @@
+#[project]
+#name = "ai-learn-python"
+#version = "0.1.0"
+#requires-python = ">=3.9"
+#dependencies = []
+[tool.uv.workspace]
+members = [
+    "apps/*",
+    "libs/*",
+    "house-price-pred",
+]
