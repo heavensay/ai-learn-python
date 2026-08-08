@@ -24,6 +24,5 @@ print(f"预测价格: {price} 万元")
 ├── train_and_save.py        # [源码] 训练与导出权重的完整可复现脚本
 ├── app.py                   # [服务] 基于 FastAPI 的在线 RESTful 接口
 ├── draw                     # [绘图] 此项目中用到的相关图形
-├── LICENSE                  # [协议] 声明开源许可证 (如 MIT)
 └── README.md                # [文档] 包含模型说明、Benchmark 和 QuickStart 示例
 ~~~
